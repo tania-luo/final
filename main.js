@@ -1,0 +1,1 @@
+const winNum = document.querySelector("#win-num");
